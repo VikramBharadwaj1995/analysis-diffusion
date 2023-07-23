@@ -1,4 +1,4 @@
-#### Name: **Prateek Gulati**  
+#### Name: **Vikram Bharadwaj**  
 
 #### OS: Linux (Northeastern Discovery Cluster)  
 
